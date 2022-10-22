@@ -113,7 +113,7 @@
 - > **Dataset(s) Used :** IMDb Review - Sentiment Classifiaction
 - > **Tasks :** Sentiment Analysis
 - > **Loss Function :** Categorical Cross Entropy
-- > **Metrics :** Categoircal Cross Entropy
+- > **Metrics :** Accurarcy
 - > **Models Tested :** Bid-RNN, LSTM/ Bid-LSTM
 
 <br>
