@@ -111,7 +111,7 @@
 ### **Week 7 : Natural Language Processing**
 
 - > **Dataset(s) Used :** IMDb Review - Sentiment Classifiaction
-- > **Tasks :** Classification
+- > **Tasks :** Sentiment Analysis
 - > **Loss Function :** Categorical Cross Entropy
 - > **Metrics :** Categoircal Cross Entropy
 - > **Models Tested :** Bid-RNN, LSTM/ Bid-LSTM
