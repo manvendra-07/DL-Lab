@@ -1,26 +1,26 @@
-# **Deep Learning Lab - V Semester B.Tech Data Science, MIT - Manipal**
-### **Overview : This Repository contains all the lab excercies performed during Semester : V -  Deep Learning Lab**
+# **Deep Learning Lab - Semester V : B.Tech Data Science, MIT - Manipal**
+### **Overview : This Repository contains all the lab exercies performed during Semester : V -  Deep Learning Lab**
 
 <br>
 
-### **Summary : The execises performed are of the following Deep Learning concepts :** 
+### **Summary : The exercises performed are of the following Deep Learning concepts :** 
 
 <br>
 
-> **Deep Neural Networks**
+#### **Deep Neural Networks**
 
 - > **Basics and the intuition of Deep Neural Networks**
 
 <br>
 
-> **Convolutional Neural Networks**
+#### **Convolutional Neural Networks**
 
 - > **Simple Convolutional Networks**
 - >  **State of the art Architectures like AlexNet, ResNet, GoogleNet, etc.**
 
 <br>
 
-> **Sequence Models**
+#### **Sequence Models**
 
 - > **Recurrent Neural Networks**
 - > **Long Short Term Memory**
@@ -37,8 +37,7 @@
 
 > **Workspace Resources** : Google Colab
 
-> **Libraries & API** : Tensorflow, KerasAPI, numpy, pandas, matplotlib, seaborn, etc
->
+> **Libraries & API** : Tensorflow, KerasAPI, numpy, pandas, matplotlib, seaborn, etc.
 
 <br><br>
 
