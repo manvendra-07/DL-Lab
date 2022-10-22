@@ -90,7 +90,7 @@
 
 ### **Week 6 : Exploring Deep & Wide/Cross Models and Introduction to Sequence Models**
 
-> #### **Experiment 1 : Forest Cover Type Classification**
+#### **Experiment 1 : Forest Cover Type Classification**
 
 - > **Dataset(s) Used :** Forest Cover Type
 - > **Tasks :** Classification
@@ -99,7 +99,7 @@
 
 <br>
 
-> #### **Experiment 2 : Stock Price Prediction**
+#### **Experiment 2 : Stock Price Prediction**
 
 - > **Dataset(s) Used :** Google Stock Price (2017)
 - > **Tasks :** Regression
