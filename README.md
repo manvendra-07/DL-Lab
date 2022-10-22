@@ -25,7 +25,6 @@
 - > **Recurrent Neural Networks**
 - > **Long Short Term Memory**
 - > **Gated Recurrent Units**
-- > **Long Short Term Memory Networks**
 
 <br><br>
 
